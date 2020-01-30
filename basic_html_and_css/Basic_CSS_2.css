@@ -1,0 +1,15 @@
+p {
+	color: #CE5B78;
+	background: #2A4B7C;
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+	font-family: Acme, Calibri, Arial;
+}
+
+.myshadow {
+	text-shadow: 2px 2px green;
+	color: orange;
+	background-color: purple;
+}
+	
